@@ -3,7 +3,7 @@
 class Club extends CI_Controller {
 
 	/**
-	 * Index Page for this controller.
+	 * Index Page for this controller. ss
 	 *
 	 * Maps to the following URL
 	 * 		http://example.com/index.php/welcome
